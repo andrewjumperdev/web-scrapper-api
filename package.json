@@ -1,5 +1,5 @@
 {
-  "name": "server-scrapping-visibility",
+  "name": "server-scrapping-bobochic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,8 @@
     "axios": "^1.3.4",
     "cheerio": "^1.0.0-rc.12",
     "express": "^4.18.2",
-    "nodemon": "^2.0.21"
+    "nodemon": "^2.0.21",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }
